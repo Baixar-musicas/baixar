@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 11 Jul 2024 12:26:07 at https://packdemusicas.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://packdemusicas.com.br/ -O1 "C:\Meus Sites\Pack 100 Mil\100 mil" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:26:40	Error: 	"Not Found" (404) at link https://packdemusicas.com.br/a (from https://connect.facebook.net/en_US/fbevents.js)
+12:26:40	Error: 	"Not Found" (404) at link https://packdemusicas.com.br/POST (from https://connect.facebook.net/en_US/fbevents.js)
+12:26:40	Error: 	"Not Found" (404) at link https://packdemusicas.com.br/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+12:26:40	Error: 	"Not Found" (404) at link https://packdemusicas.com.br/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+12:26:40	Error: 	"Not Found" (404) at link https://packdemusicas.com.br/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 44 seconds : 96 links scanned, 90 files written (93153073 bytes overall) [91340952 bytes received at 2075930 bytes/sec], 2339505 bytes transferred using HTTP compression in 23 files, ratio 19%, 4.6 requests per connection
+(5 errors, 0 warnings, 0 messages)
